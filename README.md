@@ -19,6 +19,28 @@ Or alternatively there is a AGAIN button (which reloads the page so you could al
 
 <img width="1470" height="834" alt="Screenshot 2026-10-10 at 11 28 18 pm" src="https://github.com/user-attachments/assets/6a5dbc6d-88b1-486a-9b38-b82e106f6c3e" />
 
+## Tech Stack
+- HTML -  Website Structure/order 
+- CSS - Designing the HTML elements
+- Javascript - Functionality
+- Github Pages - Hosting/ Making it public
+
+## Run Locally
+- Download the project files - index.html, style.css and script.js
+- Put all files into one folder on your device
+- Open index.html in your web browser to use the counter.
+
+## Modify Locally
+
+- Download the project files - index.html, style.css and script.js
+- Put all files into one folder on your device
+- Open index.html to modify the webpage structure 
+- Open style.css to change the design
+- Open script.js to modify features
+- Reload the page to see your changes made
+- You could also host it using Github pages 
+
+
 ## How to access
 
 To access the website press this link, it'll take you straight to it:
