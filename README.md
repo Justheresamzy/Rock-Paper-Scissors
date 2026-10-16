@@ -3,6 +3,7 @@ A game of rock paper scissors
 Only playable on Desktop/Laptop or Tablet.
 
 ## Description
+I made this rock, paper scissors game, because i thought it would be helpful and fun project to help me learn Javascript, It did help me learn more about if statements and switches.
 Made with HTML, CSS and javascript, and the site is made public on github pages.
 if you don't know how to play rock, paper, scissors - the rules are simple. 
 - Paper Beats Rock
