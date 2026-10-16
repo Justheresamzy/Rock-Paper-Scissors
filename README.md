@@ -28,18 +28,17 @@ Or alternatively there is a AGAIN button (which reloads the page so you could al
 
 ## Run Locally
 - Download the project files - index.html, style.css and script.js
-- Put all files into one folder on your device
-- Open index.html in your web browser to use the counter.
+- Place all the files into one folder
+- Open the index.html file in your web browser to play.
 
 ## Modify Locally
 
 - Download the project files - index.html, style.css and script.js
-- Put all files into one folder on your device
-- Open index.html to modify the webpage structure 
-- Open style.css to change the design
-- Open script.js to modify features
-- Reload the page to see your changes made
-- You could also host it using Github pages 
+- Place all the files into one folder
+- Open index.html to change order and structure of page.
+- Open style.css to change the styles of buttons, text etc.
+- Open script.js to change what the buttons do etc.
+- Host it using Github pages or reload the page to see the changes only made for you
 
 
 ## How to access
